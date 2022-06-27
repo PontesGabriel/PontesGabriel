@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="github.com/PontesGabriel">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PontesGabriel&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=false&show_owner=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PontesGabriel&layout=compact"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PontesGabriel&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=false&show_owner=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PontesGabriel&theme=vue-dark&t&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/gabriel-pontes-de-oliveira-9713a7242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pontesgabrieloliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/gabriel_pontes22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  
+    
 
 </div>
 <br> <br>
